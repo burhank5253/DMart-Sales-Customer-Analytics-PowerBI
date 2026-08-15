@@ -1,5 +1,5 @@
 # DMart Sales & Customer Analytics — Power BI
-
+![DMart Power BI Dashboard](DMart_PowerBI_Dashboard.png)
 ## 📊 Project Overview
 
 This project presents an interactive **DMart Sales & Customer Analytics Dashboard** developed using Microsoft Power BI.
